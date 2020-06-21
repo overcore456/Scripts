@@ -1,0 +1,11 @@
+# General
+https://gist.github.com/Xyl2k
+https://github.com/enigma0x3
+
+# Tools
+https://github.com/galkan/crowbar
+https://github.com/joaomatosf/jexboss
+https://github.com/jseidl/Babadook
+https://github.com/phillips321/phillips321
+https://github.com/phillips321/adaudit
+https://github.com/wismna/HackPi
