@@ -9,3 +9,6 @@ https://github.com/jseidl/Babadook
 https://github.com/phillips321/phillips321
 https://github.com/phillips321/adaudit
 https://github.com/wismna/HackPi
+
+# Information
+https://github.com/nsacyber/Event-Forwarding-Guidance/tree/master/Events
