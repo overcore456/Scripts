@@ -285,7 +285,7 @@ $INSTALL 1password
 $INSTALL steam
 
 # VeraCrypt
-install_deb_from_url https://launchpad.net/veracrypt/trunk/1.25.9/+download/veracrypt-1.25.9-Ubuntu-22.04-amd64.deb
+install_deb_from_url https://launchpad.net/veracrypt/trunk/1.26.24/+download/veracrypt-1.26.24-Ubuntu-25.04-amd64.deb
 
 # ----- ZSH -----
 $INSTALL zsh
